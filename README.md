@@ -18,16 +18,16 @@ Agora vamos configurar o ambiente virtual do projeto, para isso é necessário c
 ``` 
 python3 -m venv ./venv
 ```
-
+ Mac e Linux
 ``` 
 source venv/bin/activate
 ```
- (Mac e Linux)
+Windows
 
 ```
  venv\Scripts\activate.bat
 ```
-(Windows)
+
 
 E por ultimo só rodar o comando para iniciar a aplicação:
 
